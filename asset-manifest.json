@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/noirledge-landing/static/css/main.854acbd8.css",
-    "main.js": "/noirledge-landing/static/js/main.01e03d2c.js",
+    "main.js": "/noirledge-landing/static/js/main.6434ccb1.js",
     "static/js/453.aff845b1.chunk.js": "/noirledge-landing/static/js/453.aff845b1.chunk.js",
     "static/media/Niyi Osundare Portrait.png": "/noirledge-landing/static/media/Niyi Osundare Portrait.39545e4630db41d15726.png",
     "static/media/noirledge-logo.png": "/noirledge-landing/static/media/noirledge-logo.9d216f9a204a88d69017.png",
     "index.html": "/noirledge-landing/index.html",
     "main.854acbd8.css.map": "/noirledge-landing/static/css/main.854acbd8.css.map",
-    "main.01e03d2c.js.map": "/noirledge-landing/static/js/main.01e03d2c.js.map",
+    "main.6434ccb1.js.map": "/noirledge-landing/static/js/main.6434ccb1.js.map",
     "453.aff845b1.chunk.js.map": "/noirledge-landing/static/js/453.aff845b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.854acbd8.css",
-    "static/js/main.01e03d2c.js"
+    "static/js/main.6434ccb1.js"
   ]
 }
