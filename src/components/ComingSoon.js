@@ -62,7 +62,7 @@ export const ComingSoon = () => {
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-[#172554] text-white p-6 rounded-2xl text-center transform hover:scale-105 transition-transform">
               <BookOpen className="w-12 h-12 mx-auto mb-4 text-[#DBEAFE]" />
-              <h4 className="font-bold text-lg mb-2">50+</h4>
+              <h4 className="font-bold text-lg mb-2">150+</h4>
               <p className="text-[#DBEAFE]">Published Titles</p>
             </div>
             <div className="bg-gradient-to-br from-[#EFF6FF] to-[#DBEAFE] p-6 rounded-2xl text-center border border-[#172554]/10 transform hover:scale-105 transition-transform">

@@ -14,7 +14,7 @@ export const Footer = () => {
             </p>
             <div className="flex items-center space-x-2 text-gray-300">
               <Mail className="w-4 h-4" />
-              <span>info@noirledge.com</span>
+              <span>hello@noirledge.com</span>
             </div>
             <div className="flex items-center space-x-2 text-gray-300">
               <Phone className="w-4 h-4" />
